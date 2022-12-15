@@ -4,12 +4,15 @@ I'm currently a lead software engineer over at [NTT Data](https://www.nttdata.co
 
 <p><a href="https://damien.stamates.io"><img src="https://img.shields.io/badge/damien.stamates.io-4E69C8?style=flat-square&amp;labelColor=36197f&color=36197f&amp;logo=firefoxbrowser&amp;link=https://damien.stamates.io" alt="Website Badge"></a> <a href="https://medium.com/@damienstamates"><img src="https://img.shields.io/badge/@damienstamates-14c767?style=flat-square&amp;labelColor=0A0A0A&color=0A0A0A&amp;logo=Medium&amp;link=https://medium.com/@damienstamates" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/damien-stamates-a3068212a/"><img src="https://img.shields.io/badge/@damien-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/damien-stamates-a3068212a/" alt="LinkedIn Badge"></a> <a href="https://open.spotify.com/user/damienfamed75"><img src="https://img.shields.io/badge/@damienfamed75-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/damienfamed75" alt="Spotify Badge"></a> <a href="https://discordapp.com/users/131291427366764544"><img src="https://img.shields.io/badge/Damien%230812-1ED760?style=flat-square&amp;labelColor=fff&color=404eed&amp;logo=discord&amp;link=https://discordapp.com/users/131291427366764544" alt="Discord Badge"></a></p>
 
-<img align="right" width="500" src="https://media.tenor.com/RmH_QrVCDtAAAAAC/garth-marenghi-darkplace.gif" />
-
-- 🌱 I’m currently learning s&box game development
-- 📝 Most of my personal projects are on my [GitHub](https://github.com/damienfamed75)
-- 📫 How to reach me: damien@stamates.io or Damien#0812 on Discord
-- 😄 Pronouns: he/him they/them
+<img align="right" width="50%" src="https://media.tenor.com/RmH_QrVCDtAAAAAC/garth-marenghi-darkplace.gif" />
+<h2>⚡️ Some Quick Facts About Me</h2>
+<ul>
+<li>🌱 I’m currently learning s&box game development.</li>
+<li>📝 Most of my personal projects are on my <a hrep="https://github.com/damienfamed75">Github</a>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
+<li>📫 How to reach me: <strong>damien@stamates.io</strong> or <strong>Damien#0812</strong> on Discord.</li>
+<li>😄 Pronouns: he/him they/them</strong>.</li>
+</ul>
 
 <details>
     <summary>🚀 Past Projects of Mine</summary>
