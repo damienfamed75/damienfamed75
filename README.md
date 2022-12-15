@@ -8,10 +8,10 @@ I'm currently a lead software engineer over at [NTT Data](https://www.nttdata.co
 <h2>⚡️ Some Quick Facts About Me</h2>
 <ul>
 <li>🌱 I’m currently learning s&box game development.</li>
-<li>📝 Most of my personal projects are on my <a hrep="https://github.com/damienfamed75">Github</a>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
-<li>📫 How to reach me: <strong>damien@stamates.io</strong> or <strong>Damien#0812</strong> on Discord.</li>
-<li>😄 Pronouns: he/him they/them</strong>.</li>
+<li>📝 Most of my personal projects are on my <a href="https://github.com/damienfamed75">Github</a>.</li>
+<li>🗨️ Ping me about <strong>Graph Databases</strong>, <strong>Distributed Systems</strong>, and <strong>Game Development</strong></li>
+<li>📫 How to reach me: <a href="mailto:damien@stamates.io">damien@stamates.io</a>.</li>
+<li>😄 Pronouns: <strong>he/him</strong> <strong>they/them</strong>.</li>
 </ul>
 
 <details>
