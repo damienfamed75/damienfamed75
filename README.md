@@ -1,10 +1,10 @@
 ## Hey 👋, I'm [Damien](https://damien.stamates.io/)
 
-I'm currently a lead software engineer over at [NTT Data](https://www.nttdata.com/global/en/) and based in 🐄 Wisconsin. I'm currently working on a few side projects mostly revolving around game development in [s&box](https://sbox.facepunch.com/news). Trying to pick up some new skills with 3D modeling and sound design to incorporate into any future creative projects.
+I'm currently a lead software engineer over at TrueFort and based in the New York City Metropolitan Area. I'm currently working on a few side projects mostly revolving around game development in [s&box](https://sbox.facepunch.com/news). Trying to pick up some new skills with 3D modeling and sound design to incorporate into any future creative endeavors.
 
 <p><a href="https://damien.stamates.io"><img src="https://img.shields.io/badge/damien.stamates.io-4E69C8?style=flat-square&amp;labelColor=36197f&color=36197f&amp;logo=firefoxbrowser&amp;link=https://damien.stamates.io" alt="Website Badge"></a> <a href="https://medium.com/@damienstamates"><img src="https://img.shields.io/badge/@damienstamates-14c767?style=flat-square&amp;labelColor=0A0A0A&color=0A0A0A&amp;logo=Medium&amp;link=https://medium.com/@damienstamates" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/damien-stamates-a3068212a/"><img src="https://img.shields.io/badge/@damien-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/damien-stamates-a3068212a/" alt="LinkedIn Badge"></a> <a href="https://open.spotify.com/user/damienfamed75"><img src="https://img.shields.io/badge/@damienfamed75-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/damienfamed75" alt="Spotify Badge"></a> <a href="https://discordapp.com/users/131291427366764544"><img src="https://img.shields.io/badge/Damien%230812-1ED760?style=flat-square&amp;labelColor=fff&color=404eed&amp;logo=discord&amp;link=https://discordapp.com/users/131291427366764544" alt="Discord Badge"></a></p>
 
-<img align="right" width="49%" src="https://media.tenor.com/RmH_QrVCDtAAAAAC/garth-marenghi-darkplace.gif" />
+<!--<img align="right" width="49%" src="https://media.tenor.com/RmH_QrVCDtAAAAAC/garth-marenghi-darkplace.gif" />-->
 <h2>⚡️ Some Quick Facts About Me</h2>
 <ul>
 <li>🌱 I’m currently learning s&box game development.</li>
