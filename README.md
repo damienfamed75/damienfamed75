@@ -19,7 +19,5 @@ I'm currently a lead software engineer over at TrueFort and based in the New Yor
     <li><a target="_blank" href="https://github.com/northwesternmutual/grammes">Grammes - Gremlin QL Wrapper</a></li><li><a target="_blank" href="https://github.com/damienfamed75/quirk">Quirk - A Dgraph Client for Quick Multi-Upserts</a></li><li><a target="_blank" href="https://github.com/damienfamed75/just_another_night">Just Another Night - s&box Game Jam Entry, Oct. 2022</a></li><li><a target="_blank" href="https://github.com/gohort/extra">Extra - Golang Serde-like JSON parser</a></li>
 </details>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=damienfamed75&show_icons=true&count_private=true&theme=transparent" alt="damienfamed75 github stats" />
-
 ![Profile Views](https://komarev.com/ghpvc/?username=damienfamed75)
 ![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fdamien.stamates.io%2F)
