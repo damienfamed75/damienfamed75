@@ -1,5 +1,3 @@
-## Hey 👋, I'm [Damien](https://damien.stamates.io/)
-
 I'm currently a lead software engineer over at TrueFort and based in the New York City Metropolitan Area. I'm currently working on a few side projects mostly revolving around game development in [s&box](https://sbox.facepunch.com/news). Trying to pick up some new skills with 3D modeling and sound design to incorporate into any future creative endeavors.
 
 <!--<img align="right" width="49%" src="https://media.tenor.com/RmH_QrVCDtAAAAAC/garth-marenghi-darkplace.gif" />-->
